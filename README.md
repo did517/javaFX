@@ -1,2 +1,9 @@
-# javaFX
-A collection of JavaFX applications and mini-projects built to practice Java, JavaFX, event-driven programming, UI development, and object-oriented programming concepts.
+# JavaFX Projects
+
+Collection of JavaFX projects created while learning Java application development.
+
+Topics practiced:
+- JavaFX UI
+- Event handling
+- Object-oriented programming
+- Application logic
