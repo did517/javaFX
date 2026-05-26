@@ -1,4 +1,3 @@
-<img width="502" height="538" alt="stop sign" src="https://github.com/user-attachments/assets/3adf2497-d16e-4749-8fca-7cfe15441bb8" />
 # JavaFX Projects
 
 Collection of JavaFX projects created while learning Java application development.
